@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="username_hint">Please enter the username</string>
+    <string name="password_hint">Please enter the password</string>
+    <string name="login_btn_txt">Sign in</string>
+    <string name="progress_dialog_title">Signing up!!!</string>
+    <string name="progress_dialog_message">Signing up Please wait</string>
+    <string name="alert_dialog_title">Signing up!!!</string>
+</resources>

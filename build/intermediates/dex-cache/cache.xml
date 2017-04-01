@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\a776817707f8a63a52f7b469c9bb97972e12cdad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad3b5eaf78eae15bb37d4aad5311e6f8dc97ddd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\c0ff77f09a9f67559de4e58ad09893e599ed89ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_836ebd1f3e99395a261c1726c8146efec806cfdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\778661351bd86c0561549a3436fa85d9c8c49bd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7181637cc5a9bf37732e4879fc8896ef1f86e76b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\a07d88344168457decbb9e7428fae65c8be1aafc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e082edb13467359d088c9fd119e5be9496c6317b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\8d841946682f16a54a9979085a9ae65458b8c1e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f92e9993f2f8d9c407518c210643e82c6b95b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_8a953866854367927f5baf8a236d1e086b4d6798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\10acf5e09c33314560a077c9fd125571b48bdf38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_594104c1bb827e98e9c3b650d503d0ebf1963b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\RetrofitExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70b737b0e7a9a5c6b1423eb9198d624a01cfa5b8">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_538f2e801c542dbedde9a5e7968f72f471d02bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\RetrofitExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8ac38f0dd7be65e67e175e6bbc7f61bc5ef7be08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\784296a90e7260266d43be33b32ae195c60fee34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a448262e39d8b06f416229c637d747de81d8c10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\3bce0fabd9fbb28e5f57b5a25d8b53f96c6a0c33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d6bfad05c5a333c28e99c50f7cf83a3a6e34005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_2a179f25b98a21540a1fbb5649ef46a4dc93127e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\e1a9cc57ff8325de719017b6628bbb75cb359ca2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6bf8f585ab23d16604fea0016d0a8a9a1f9399c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\552a576d6bc5a6a62ae757d42e44f6b47d9ec465\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="F:\Android\RetrofitExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8379c3b69d363f979580e0b3d994300abcb30b6e\classes.dex" />
+    </item>
+
+</items>
